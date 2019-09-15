@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 //น้มุ 10951น๘ A+B-4
+import java.util.Scanner;
 
 public class baekjoon1 {
 
