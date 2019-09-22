@@ -1,3 +1,4 @@
+//10718¹ø
 
 public class baekjoon4 {
 
